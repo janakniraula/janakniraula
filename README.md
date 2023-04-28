@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janakniraula
-- 👀 I’m interested in Building Roms and Programming
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Building Roms, Linux Distros
+- 🌱 I’m currently learning something that I don't know.
 - 💞️ I’m looking to collaborate on new devs
 - 📫 How to reach me niraulajanak2019@gmail.com
 
