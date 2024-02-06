@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @janakniraula
-- 👀 I’m interested in Building Roms, Linux Distros
-- 🌱 I’m currently learning something that I don't know.
-- 💞️ I’m looking to collaborate on new devs
-- 📫 How to reach me niraulajanak2019@gmail.com
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=janakniraula&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=janakniraula&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=janakniraula&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!---
-janakniraula/janakniraula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=janakniraula&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
